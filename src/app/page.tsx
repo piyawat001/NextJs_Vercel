@@ -84,7 +84,7 @@ export default function Home() {
             </div>
           </div>
           <p className="mt-8 text-center text-sm text-gray-600">
-            Don't have an account?{' '}
+            Don&apos;t have an account?{" "}
             <a href="#" className="font-medium text-green-600 hover:text-green-500">
               Register
             </a>
